@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Taylor (@taylorapp550) 
 
-<!--
-**taylorapp550/taylorapp550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Seoul. Most of my time goes into open source backend tools, API plumbing, and runtime performance.
 
-Here are some ideas to get you started:
+#### Current focus
+- Building CLI tools and backend services in **Go** and **Python**
+- Automating builds and minimal runtime images with **Docker**
+- Writing frontends in **JavaScript** when a tool needs UI
+- Spending way too much time tuning my **Neovim** config
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox
+- **Languages:** Go, Python, JavaScript / TypeScript, SQL
+- **Dev & Ops:** Docker, Linux, Git, Neovim, GitHub Actions
+
+#### Connect
+- Open an issue or PR on any of my repos
+- Email: `taylor.app550@gmail.com`
